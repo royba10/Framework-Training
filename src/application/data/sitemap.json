@@ -1,0 +1,33 @@
+{
+    "result": [
+    
+        {
+            "name": "MemorandaWeb",
+            "localeKey": "MODULE_MEMORANDAWEB",
+            "isSelected": true,
+            "hidden": false,
+            "views": [
+            	{
+            		"name": "logbook.LogBookView",
+            		"localeKey": "VIEW_LOG_BOOK",
+            		"isSelected": true
+            	}
+            ]
+        },
+        {
+            "name": "SoftWeb",
+            "localeKey": "MODULE_SOFTWEB",
+            "isSelected": true,
+            "hidden": false,
+            "views": [
+                {
+                    "name": "form.FormView",
+                    "localeKey": "VIEW_FORM",
+                    "isSelected": true
+                }
+            ]
+        }
+	],
+	"errors": [],
+	"success": true
+}
